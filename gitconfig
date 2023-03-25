@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dance.luv48@gmail.com
+	name = Juri Kato
